@@ -2,7 +2,7 @@
 
 ## 基本
 - The solar constant (GSC) 太阳辐射常数: 1.362 kW/m2，但这个是太空中测量的理想数据
-- [地面垂直接收的功率约为1kw/平米](https://zh.wikipedia.org/zh-hans/%E6%97%A5%E5%B0%84%E9%87%8F)
+- 我们可以粗略的认为[地面垂直接收的功率约为1kw/平米](https://zh.wikipedia.org/zh-hans/%E6%97%A5%E5%B0%84%E9%87%8F)
 - 
 
 晶体硅太阳能电池的效率极限
@@ -32,3 +32,8 @@
 - HJT: 因为HIT被松下-三洋注册成商标了，所以其他都成为HJT
 - TOPCon - Tunnel Oxide Passivated Contact
 
+## 光伏案例
+青海 龙羊峡/塔拉滩 
+- 光伏电站 - 609平方公里，2021年末装机12.9GW，约1/5的地方都装上了光伏panel
+- ref: [Google map](https://www.google.com/maps/search/%E5%A1%94%E6%8B%89%E6%BB%A9/@36.1082307,100.4816181,54605m/data=!3m1!1e3)
+- ref: [163 news](https://www.163.com/dy/article/GDLISUK4055281OU.html)
